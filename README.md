@@ -34,3 +34,5 @@ https://www.researchgate.net/publication/366497486_Bayesian_Inference_for_Multiv
 Pacote "inlabru": https://inlabru-org.github.io/inlabru/
 
 <img width="1200" height="925" alt="Rplot2_" src="https://github.com/user-attachments/assets/f77ed1a5-5575-494d-9163-9a6505093149" />
+
+<img width="1026" height="571" alt="Rplot3" src="https://github.com/user-attachments/assets/90e83848-f907-4201-ac3b-9b27f27f19c7" />

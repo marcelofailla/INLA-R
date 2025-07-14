@@ -1,7 +1,6 @@
 # inla-r
 O INLA (Integrated Nested Laplace Approximations) é um método para inferência bayesiana aproximada que tem sido amplamente utilizado em estatística espacial, especialmente em modelos gaussianos latentes (LGM).
 
-
 Estatística Espacial:
 Envolve a análise de dados que estão associados a localizações geográficas, como mapas de doenças, distribuição de espécies, ou padrões de uso da terra. 
 A análise espacial pode incluir a modelagem da dependência espacial entre as observações, ou seja, como a localização de um ponto influencia os valores em outros pontos próximos. 
@@ -26,3 +25,11 @@ Modelagem da distribuição de espécies em um ambiente, considerando fatores am
 
 Análise de dados de contagem:
 Modelagem de dados de contagem espacial, como o número de ocorrências de um evento em diferentes áreas, levando em conta a influência da localização. 
+
+Bayesian Inference for Multivariate Spatial Models with R-INLA
+December 2022
+DOI: 10.48550/arXiv.2212.10976
+https://www.researchgate.net/publication/366497486_Bayesian_Inference_for_Multivariate_Spatial_Models_with_R-INLA
+
+
+<img width="1200" height="925" alt="Rplot2_" src="https://github.com/user-attachments/assets/f77ed1a5-5575-494d-9163-9a6505093149" />

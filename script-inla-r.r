@@ -7,8 +7,6 @@
 # assumed as the controls and the exposure to an old inicinerator is
 # included in the model as a LINEAR effect of the distance from every
 # point to the location of this old incinerator.
-# atualizar a versão do R para 4.5.1 (disponível em: https://cran.r-project.org/bin/windows/base/R-4.5.1-win.exe)
-#pacote inlabru (infos em: https://cran.r-project.org/web/packages/inlabru/index.html)
 
 #install.packages('INLA')
 #install.packages("INLA", repos = INLA:::getOption("inla.binary.repo"))

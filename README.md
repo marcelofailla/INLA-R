@@ -31,5 +31,6 @@ December 2022
 DOI: 10.48550/arXiv.2212.10976
 https://www.researchgate.net/publication/366497486_Bayesian_Inference_for_Multivariate_Spatial_Models_with_R-INLA
 
+Pacote "inlabru": https://inlabru-org.github.io/inlabru/
 
 <img width="1200" height="925" alt="Rplot2_" src="https://github.com/user-attachments/assets/f77ed1a5-5575-494d-9163-9a6505093149" />
